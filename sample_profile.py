@@ -1,0 +1,13 @@
+professional_profile = {'name': 'Alex Morgan',
+ 'qualification': 'Bachelor of Computer Science',
+ 'location': 'Sample City',
+ 'technical_skills': ['Python', 'SQL', 'HTML', 'CSS', 'JavaScript', 'Git'],
+ 'education': [{'qualification': 'Bachelor of Computer Science',
+                'institution': 'Example University'}],
+ 'experience': [{'job_title': 'Junior Software Developer',
+                 'organization': 'Example Technology Company',
+                 'responsibilities': ['Developed Python applications',
+                                      'Worked with SQL databases',
+                                      'Assisted with software testing']}],
+ 'projects': [{'name': 'Task Management Application',
+               'description': 'A Python application for managing tasks.'}]}
