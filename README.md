@@ -40,8 +40,8 @@ Run the following command:
 
 ## Example Output
 
-Candidate: Alex Morgan
-Job Title: Python Backend Developer
+Candidate: Alex Morgan, 
+Job Title: Python Backend Developer, 
 Keyword Match: 33.33%
 
 ## Limitations
